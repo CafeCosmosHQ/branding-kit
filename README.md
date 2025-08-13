@@ -1,17 +1,13 @@
 # CafeCosmos Branding Kit
 
 ![Banner](banner.png)  
-_First commit_  
-_Now_  
+Banner
 
 ![Logo PNG](logo.png)  
-_First commit_  
-_Now_  
+Logo (PNG) 
 
 ![Logo SVG](logo.svg)  
-_First commit_  
-_Now_  
+Logo (SVG)
 
 ![Profile Picture](pfp.png)  
-_First commit_  
-_Now_  
+Profile Picture 
