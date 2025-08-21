@@ -12,6 +12,8 @@ Logo (SVG)
 ![Profile Picture](pfp.png)  
 Profile Picture 
 
+## In-Game Images
+
 ![2Jungle2Furious](2Jungle2Furious.png)  
 2Jungle2Furious
 
