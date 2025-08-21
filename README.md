@@ -12,8 +12,6 @@ Logo (SVG)
 ![Profile Picture](pfp.png)  
 Profile Picture 
 
-## In-Game Images
-
 ![2Jungle2Furious](2Jungle2Furious.png)  
 2Jungle2Furious
 
@@ -34,3 +32,9 @@ SoMuch
 
 ![TitleScreen](TitleScreen.png)  
 TitleScreen 
+
+![InGame1](InGame1.png)  
+InGame1 
+
+![InGame2](InGame2.png)  
+InGame2 
